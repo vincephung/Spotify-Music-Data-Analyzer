@@ -1,0 +1,16 @@
+.number{
+    color: #00B2FF;
+    font-weight: bolder;
+    font-size: 26px;
+    text-shadow: -2px 2px 0 #000, -2px 2px 0 #0a0e27;
+    padding-right: 5px;
+}
+
+.all{
+    text-align: "Left";
+}
+
+.allContainer{
+    display: "flex";
+    justify-content: "space-between";
+}

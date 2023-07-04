@@ -1,0 +1,61 @@
+
+.profileCard{
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    width: 75%;
+    font-family: Rowdies;
+    background-color: #5E5C5C;
+    border: 2px solid;
+    padding: 0.5em 0.5em;
+    box-shadow: 3px 2px 0px 0px , 3px 3px 0px 0px, 4px 4px 0px 0px, 6px 6px 0px 0px, 8px 8px 0px 0px;
+}
+
+.profileText{
+    color: rgb(209, 209, 209);
+}
+
+
+.profilePicture{
+    width: 25%;
+}
+
+.profilePictureDiv{
+    padding: 20px;
+    display:flex;
+    justify-content: center;
+}
+
+
+.profileBtns{
+    background-color: #00B2FF;
+    font-family: Rowdies;
+    font-size: 14px;
+    color: #000;
+    cursor: pointer;
+    border: 3px solid;
+    padding: 0.25em 0.5em;
+    box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+    position: relative;
+    touch-action: manipulation;
+
+}
+
+
+/** For Edit User Page Form **/
+.editUserPageContainer{
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
+
+.userForm{
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 10%;
+    width: 50%;
+    padding: 40px;
+}

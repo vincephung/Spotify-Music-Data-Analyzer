@@ -1,0 +1,18 @@
+.recommendationCard{
+    margin:auto;
+    width: auto;
+    font-family: Rowdies;
+    background-color: #5E5C5C;
+    border: 2px solid;
+    box-shadow: 3px 2px 0px 0px , 3px 3px 0px 0px, 4px 4px 0px 0px, 6px 6px 0px 0px, 8px 8px 0px 0px;
+    position: relative;
+
+}
+
+.albumImage{
+    display: flex;
+    padding: 10px;
+    margin: auto;
+    justify-content: center;
+    width: 80%;
+}

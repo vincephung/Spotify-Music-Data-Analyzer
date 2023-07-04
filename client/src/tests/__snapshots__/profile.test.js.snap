@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Get profile page 1`] = `
+<div>
+  <div
+    class="profileCard text-center card"
+  >
+    <div
+      class="profilePictureDiv"
+    >
+      <img
+        class="profilePicture rounded-circle img-thumbnail"
+        src="profile.png"
+      />
+    </div>
+    <div
+      class="profileText"
+    >
+      <div
+        class="card-title h5"
+      >
+        statify
+      </div>
+      <p
+        class="card-text"
+      />
+      <p
+        class="card-text"
+      >
+        Username: 
+        31oadqabwvmlmape6n5uyccvqgcm
+      </p>
+      <p
+        class="card-text"
+      >
+        Email: 
+        statifytest@gmail.com
+      </p>
+      <p
+        class="card-text"
+      >
+        Location: 
+        US
+      </p>
+      <p
+        class="card-text"
+      >
+        Plan: 
+        Standard
+      </p>
+    </div>
+    <div
+      class="card-footer"
+      style="padding: 10px;"
+    >
+      <div
+        class="justify-content-md-center hstack gap-3"
+      >
+        <button
+          class="profileBtns btn btn-success"
+          type="button"
+        >
+          Join
+           Premium
+        </button>
+        <button
+          class="profileBtns btn btn-danger"
+          type="button"
+        >
+           Refresh Data
+        </button>
+        <button
+          class="profileBtns btn btn-danger"
+          disabled=""
+          type="button"
+        >
+          Generate Share Link
+        </button>
+        <button
+          class="profileBtns btn btn-danger"
+          type="button"
+        >
+          Log out
+        </button>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      style="position: fixed; z-index: 9999; top: 16px; left: 16px; right: 16px; bottom: 16px; pointer-events: none;"
+    />
+  </div>
+</div>
+`;

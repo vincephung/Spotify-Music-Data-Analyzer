@@ -1,0 +1,286 @@
+[
+    {
+        "rank": "1",
+        "mediaName": "SOUR",
+        "creators": [
+            "Olivia Rodrigo"
+        ],
+        "id": "6s84u2TUpR3wdUv4NgKA2j",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
+    },
+    {
+        "rank": "2",
+        "mediaName": "Hollywood's Bleeding",
+        "creators": [
+            "Post Malone",
+            "Swae Lee"
+        ],
+        "id": "4g1ZRSobMefqF6nelkgibi",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02"
+    },
+    {
+        "rank": "3",
+        "mediaName": "Graduation",
+        "creators": [
+            "Kanye West",
+            "T-Pain"
+        ],
+        "id": "4SZko61aMnmgvNhfhgTuD3",
+        "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a"
+    },
+    {
+        "rank": "4",
+        "mediaName": "Happier Than Ever",
+        "creators": [
+            "Billie Eilish"
+        ],
+        "id": "0JGOiO34nwfUdDrD612dOp",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e"
+    },
+    {
+        "rank": "5",
+        "mediaName": "Blonde",
+        "creators": [
+            "Frank Ocean"
+        ],
+        "id": "3mH6qwIy9crq0I9YQbOuDf",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526"
+    },
+    {
+        "rank": "6",
+        "mediaName": "The College Dropout",
+        "creators": [
+            "Kanye West"
+        ],
+        "id": "4Uv86qWpGTxf7fU7lG5X6F",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78"
+    },
+    {
+        "rank": "7",
+        "mediaName": "Swimming",
+        "creators": [
+            "Mac Miller"
+        ],
+        "id": "5wtE5aLX5r7jOosmPhJhhk",
+        "image": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534"
+    },
+    {
+        "rank": "8",
+        "mediaName": "Rumours (Super Deluxe)",
+        "creators": [
+            "Fleetwood Mac"
+        ],
+        "id": "0BwWUstDMUbgq2NYONRqlu",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b"
+    },
+    {
+        "rank": "9",
+        "mediaName": "Donda",
+        "creators": [
+            "Kanye West"
+        ],
+        "id": "5CnpZV3q5BcESefcB3WJmz",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cad190f1a73c024e5a40dddd"
+    },
+    {
+        "rank": "10",
+        "mediaName": "Stoney (Deluxe)",
+        "creators": [
+            "Post Malone",
+            "Quavo"
+        ],
+        "id": "5s0rmjP8XOPhP6HhqOhuyC",
+        "image": "https://i.scdn.co/image/ab67616d0000b27355404f712deb84d0650a4b41"
+    },
+    {
+        "rank": "11",
+        "mediaName": "One Kiss (with Dua Lipa)",
+        "creators": [
+            "Calvin Harris",
+            "Dua Lipa"
+        ],
+        "id": "7GEzhoTiqcPYkOprWQu581",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d09f96d82310d4d77c14c108"
+    },
+    {
+        "rank": "12",
+        "mediaName": "2014 Forest Hills Drive",
+        "creators": [
+            "J. Cole"
+        ],
+        "id": "0UMMIkurRUmkruZ3KGBLtG",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c6e0948bbb0681ff29cdbae8"
+    },
+    {
+        "rank": "13",
+        "mediaName": "Acid Rap",
+        "creators": [
+            "Chance the Rapper",
+            "VIC MENSA",
+            "Twista"
+        ],
+        "id": "2VBcztE58pBKjIDS5oEgFh",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d95ab48a8a9de3c4a2cbfe80"
+    },
+    {
+        "rank": "14",
+        "mediaName": "Donda (Deluxe)",
+        "creators": [
+            "Kanye West"
+        ],
+        "id": "2Wiyo7LzdeBCsVZiRA6vVZ",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c5663e50de353981ed2b1a37"
+    },
+    {
+        "rank": "15",
+        "mediaName": "K.I.D.S.",
+        "creators": [
+            "Mac Miller"
+        ],
+        "id": "0WzOtZBpXvWdNdH7hCJ4qo",
+        "image": "https://i.scdn.co/image/ab67616d0000b27350570144b4a9a459406f9a3d"
+    },
+    {
+        "rank": "16",
+        "mediaName": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "creators": [
+            "Billie Eilish"
+        ],
+        "id": "0S0KGZnfBGSIssfF54WSJh",
+        "image": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce"
+    },
+    {
+        "rank": "17",
+        "mediaName": "GO:OD AM",
+        "creators": [
+            "Mac Miller",
+            "Miguel"
+        ],
+        "id": "2Tyx5dLhHYkx6zeAdVaTzN",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ee0f38410382a255e4fb15f4"
+    },
+    {
+        "rank": "18",
+        "mediaName": "Funk Wav Bounces Vol.1",
+        "creators": [
+            "Calvin Harris",
+            "Frank Ocean",
+            "Migos",
+            "Funk Wav"
+        ],
+        "id": "2HaqChIDc5go3qxVunBDK0",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734d3fa5ce7ba599f4fd7803ef"
+    },
+    {
+        "rank": "19",
+        "mediaName": "One Right Now",
+        "creators": [
+            "Post Malone",
+            "The Weeknd"
+        ],
+        "id": "6fgSKdHloRioPrZ9oJC7FH",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734158fe41143182ec16ead070"
+    },
+    {
+        "rank": "20",
+        "mediaName": "Birds In The Trap Sing McKnight",
+        "creators": [
+            "Travis Scott"
+        ],
+        "id": "42WVQWuf1teDysXiOupIZt",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f54b99bf27cda88f4a7403ce"
+    },
+    {
+        "rank": "21",
+        "mediaName": "Bored",
+        "creators": [
+            "Billie Eilish"
+        ],
+        "id": "4iyJ8i3eKbez8JXDbsHIdZ",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e0f2af91be409aad81bba98c"
+    },
+    {
+        "rank": "22",
+        "mediaName": "This Is What You Came For (feat. Rihanna)",
+        "creators": [
+            "Calvin Harris",
+            "Rihanna"
+        ],
+        "id": "3pEgGUv379EDinvg1TN7Kt",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d9aa52355e062f5de060adbf"
+    },
+    {
+        "rank": "23",
+        "mediaName": "18 Months",
+        "creators": [
+            "Calvin Harris"
+        ],
+        "id": "7w19PFbxAjwZ7UVNp9z0uT",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dcef905cb144d4867119850b"
+    },
+    {
+        "rank": "24",
+        "mediaName": "Fighting Demons (Extended Edition)",
+        "creators": [
+            "Juice WRLD"
+        ],
+        "id": "7qFlJdLo0I0sQrphIweCvC",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f0a0c883978725e48bdbc735"
+    },
+    {
+        "rank": "25",
+        "mediaName": "My Beautiful Dark Twisted Fantasy",
+        "creators": [
+            "Kanye West",
+            "Bon Iver"
+        ],
+        "id": "20r762YmB5HeofjMCiPMLv",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d9194aa18fa4c9362b47464f"
+    },
+    {
+        "rank": "26",
+        "mediaName": "everything i wanted",
+        "creators": [
+            "Billie Eilish"
+        ],
+        "id": "4i3rAwPw7Ln2YrKDusaWyT",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249"
+    },
+    {
+        "rank": "27",
+        "mediaName": "Ocean Eyes (The Remixes)",
+        "creators": [
+            "Billie Eilish"
+        ],
+        "id": "44OSkEmvHwdTFhPBCewIks",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732dc817144c8081281f77508d"
+    },
+    {
+        "rank": "28",
+        "mediaName": "Yeezus",
+        "creators": [
+            "Kanye West"
+        ],
+        "id": "7D2NdGvBHIavgLhmcwhluK",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731dacfbc31cc873d132958af9"
+    },
+    {
+        "rank": "29",
+        "mediaName": "beerbongs & bentleys",
+        "creators": [
+            "Post Malone",
+            "Ty Dolla $ign"
+        ],
+        "id": "6trNtQUgC8cgbWcqoMYkOR",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268"
+    },
+    {
+        "rank": "30",
+        "mediaName": "dont smile at me",
+        "creators": [
+            "Billie Eilish"
+        ],
+        "id": "7fRrTyKvE4Skh93v97gtcU",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795"
+    }
+]

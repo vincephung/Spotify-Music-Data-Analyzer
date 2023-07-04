@@ -1,0 +1,32 @@
+.pageTitle{
+    color: #00B2FF;
+    margin-top: 75px;
+    font-size: 2.2em;
+    text-align: center;
+    text-shadow : -4px 3px 0 #000, -5px 7px 0 #0a0e27;
+}
+
+.sharedProfilePicture{
+    width: 100%
+}
+
+.topFive{
+    margin-top: 100px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+
+.profileCard{
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    width: 75%;
+    font-family: Rowdies;
+    background-color: #5E5C5C;
+    border: 2px solid;
+    padding: 0.5em 0.5em;
+    box-shadow: 3px 2px 0px 0px , 3px 3px 0px 0px, 4px 4px 0px 0px, 6px 6px 0px 0px, 8px 8px 0px 0px;
+}

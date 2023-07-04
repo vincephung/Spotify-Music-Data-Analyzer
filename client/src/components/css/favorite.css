@@ -1,0 +1,98 @@
+body{
+    font-family: Rowdies;
+}
+
+.topCard{
+    width: 95%;
+    height: auto;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 4vh;
+    background-color: #585858;
+    box-shadow:  1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+    position: relative;
+}
+
+.topCardHeader{
+    color: #00B2FF;
+    letter-spacing: 3px;
+    font-size: 40px;
+    padding: 0px;
+    text-shadow: -3px 3px 0 #000, -3px 3px 0 #0a0e27;
+    text-align: center;
+
+}
+
+.topCardBody{
+    background-color: #585858;
+}
+
+.albumImageContainer{
+    float: left;
+    display: flex;
+    justify-content: left;
+    background-color: darkgrey;
+}
+
+.albumImg{
+    position: absolute;
+    top: -30px;
+    left: -10px;
+    width: 150px;
+    height: 150px;
+}
+
+
+.viewAll{
+    background-color: #00B2FF;
+    font-family: Rowdies;
+    font-size: 14px;
+    color: #000;
+    cursor: pointer;
+    border: 3px solid;
+    padding: 0.25em 0.5em;
+    box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+    position: relative;
+    touch-action: manipulation;
+}
+
+.topItem{
+    position: relative;
+}
+
+.number-one {
+    display: inline;
+    color: #e8cd00;
+    text-shadow: -5px 5px 0 #000, -5px 5px 0 #0a0e27;
+    font-size: 100px;
+    margin-left: 175px;
+}
+
+.number-one-item {
+    display: inline;
+    color: white;
+    font-size: 30px;
+    text-shadow: -4px 4px 0 #000, -4px 4px 0 #0a0e27;
+
+}
+
+.number{
+    color: #00B2FF;
+    font-weight: bolder;
+    font-size: 26px;
+    text-shadow: -2px 2px 0 #000, -2px 2px 0 #0a0e27;
+}
+
+.topListGroup{
+   padding: 10px;
+}
+
+.topListGroup .list-group-item{
+   background-color: rgb(255, 255, 255, 1);
+   display: flex;
+   justify-content: space-between;
+   margin: 2px;
+   border-radius: 20px;
+   box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+   font-size: 18px;
+}

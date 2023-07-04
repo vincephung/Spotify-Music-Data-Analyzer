@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should get all data for artists 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <div
+      class="charts"
+    >
+      <div
+        class="charts-children"
+      >
+        <div
+          class="list-group"
+          style="margin: 7.5%;"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Should get all data for genres 1`] = `
+<div>
+  <div
+    class="App"
+  >
+    <div
+      class="charts"
+    >
+      <div
+        class="charts-children"
+      >
+        <div
+          class="list-group"
+          style="margin: 7.5%;"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

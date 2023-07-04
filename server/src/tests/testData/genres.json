@@ -1,0 +1,142 @@
+ [
+        {
+            "rank": "1",
+            "mediaName": "rap"
+        },
+        {
+            "rank": "2",
+            "mediaName": "hip hop"
+        },
+        {
+            "rank": "3",
+            "mediaName": "pop"
+        },
+        {
+            "rank": "4",
+            "mediaName": "chicago rap"
+        },
+        {
+            "rank": "5",
+            "mediaName": "pop rap"
+        },
+        {
+            "rank": "6",
+            "mediaName": "melodic rap"
+        },
+        {
+            "rank": "7",
+            "mediaName": "dance pop"
+        },
+        {
+            "rank": "8",
+            "mediaName": "conscious hip hop"
+        },
+        {
+            "rank": "9",
+            "mediaName": "pittsburgh rap"
+        },
+        {
+            "rank": "10",
+            "mediaName": "dfw rap"
+        },
+        {
+            "rank": "11",
+            "mediaName": "art pop"
+        },
+        {
+            "rank": "12",
+            "mediaName": "electropop"
+        },
+        {
+            "rank": "13",
+            "mediaName": "alternative r&b"
+        },
+        {
+            "rank": "14",
+            "mediaName": "lgbtq+ hip hop"
+        },
+        {
+            "rank": "15",
+            "mediaName": "neo soul"
+        },
+        {
+            "rank": "16",
+            "mediaName": "edm"
+        },
+        {
+            "rank": "17",
+            "mediaName": "electro house"
+        },
+        {
+            "rank": "18",
+            "mediaName": "house"
+        },
+        {
+            "rank": "19",
+            "mediaName": "pop dance"
+        },
+        {
+            "rank": "20",
+            "mediaName": "progressive house"
+        },
+        {
+            "rank": "21",
+            "mediaName": "uk dance"
+        },
+        {
+            "rank": "22",
+            "mediaName": "north carolina hip hop"
+        },
+        {
+            "rank": "23",
+            "mediaName": "ohio hip hop"
+        },
+        {
+            "rank": "24",
+            "mediaName": "east coast hip hop"
+        },
+        {
+            "rank": "25",
+            "mediaName": "atl hip hop"
+        },
+        {
+            "rank": "26",
+            "mediaName": "southern hip hop"
+        },
+        {
+            "rank": "27",
+            "mediaName": "trap"
+        },
+        {
+            "rank": "28",
+            "mediaName": "album rock"
+        },
+        {
+            "rank": "29",
+            "mediaName": "classic rock"
+        },
+        {
+            "rank": "30",
+            "mediaName": "mellow gold"
+        },
+        {
+            "rank": "31",
+            "mediaName": "rock"
+        },
+        {
+            "rank": "32",
+            "mediaName": "soft rock"
+        },
+        {
+            "rank": "33",
+            "mediaName": "yacht rock"
+        },
+        {
+            "rank": "34",
+            "mediaName": "slap house"
+        },
+        {
+            "rank": "35",
+            "mediaName": "underground hip hop"
+        }
+    ]

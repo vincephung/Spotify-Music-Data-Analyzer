@@ -1,0 +1,157 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render top 5 songs 1`] = `
+<div>
+  <div
+    class="topCard card"
+  >
+    <div
+      class="topCardHeader card-header"
+    >
+      <div
+        class="albumImgContainer"
+      >
+        <img
+          class="albumImg img-thumbnail"
+        />
+      </div>
+      Top 
+      Songs
+    </div>
+    <div
+      class="topCardBody card-body"
+    >
+      <div
+        class="card-title h5"
+      >
+        <div
+          class="topItem"
+        >
+          <div
+            class="number-one"
+          >
+            1 
+          </div>
+          <div
+            class="number-one-item"
+          >
+            [loading]
+             
+            <span
+              style="color: grey;"
+            >
+                by 
+              [loading]
+                
+            </span>
+          </div>
+        </div>
+      </div>
+      <ul
+        class="topListGroup list-group list-group-flush"
+      >
+        <li
+          class="list-group-item"
+        >
+          <div
+            style="text-align: Left;"
+          >
+            <span
+              class="number"
+            >
+               
+              1
+            </span>
+                  
+            [loading]
+            <span
+              style="color: grey;"
+            >
+                 by 
+              [loading]
+            </span>
+          </div>
+        </li>
+        <li
+          class="list-group-item"
+        >
+          <div
+            style="text-align: Left;"
+          >
+            <span
+              class="number"
+            >
+               
+              2
+            </span>
+                  
+            [loading]
+            <span
+              style="color: grey;"
+            >
+                 by 
+              [loading]
+            </span>
+          </div>
+        </li>
+        <li
+          class="list-group-item"
+        >
+          <div
+            style="text-align: Left;"
+          >
+            <span
+              class="number"
+            >
+               
+              3
+            </span>
+                  
+            [loading]
+            <span
+              style="color: grey;"
+            >
+                 by 
+              [loading]
+            </span>
+          </div>
+        </li>
+        <li
+          class="list-group-item"
+        >
+          <div
+            style="text-align: Left;"
+          >
+            <span
+              class="number"
+            >
+               
+              4
+            </span>
+                  
+            [loading]
+            <span
+              style="color: grey;"
+            >
+                 by 
+              [loading]
+            </span>
+          </div>
+        </li>
+      </ul>
+      <div
+        style="display: flex; justify-content: right;"
+      >
+        <a
+          class="viewAll btn btn-primary"
+          href="/all/Songs"
+          role="button"
+          tabindex="0"
+        >
+          View All
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;
